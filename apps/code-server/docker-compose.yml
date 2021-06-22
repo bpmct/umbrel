@@ -1,0 +1,13 @@
+version: "3.7"
+
+services:
+  web:
+    image: codercom/code-server:3.10.2
+    restart: on-failure
+    stop_grace_period: 1m
+    ports:
+      - 3009:8080
+    volumes:
+      - ${APP_DATA_DIR}/home:/home/coder
+    environment:
+      PASSWORD: moneyprintergobrrr
