@@ -262,7 +262,7 @@
         "name": "code-server",
         "version": "3.10.2",
         "tagline": "A development environment with VS Code in the web browser",
-        "description": "code-server allows you to run VS Code on any machine and access it from the web browser.\n\nThis app gives you a code-server container, where you can install dev tools and access your applications via code-server's built-in proxy: https://coder.com/docs/code-server/v3.10.2/FAQ#sub-paths",
+        "description": "code-server allows you to run VS Code on any machine and access it from the web browser.\n\nThis app gives you a code-server container, where you can install dev tools and access your applications via code-server's built-in proxy: https://coder.com/docs/code-server/v3.10.2/FAQ#sub-paths\n\nLog in with the default password: moneyprintergobrrr",
         "developer": "Coder",
         "website": "https://coder.com/docs/code-server/latest",
         "repo": "https://github.com/cdr/code-server",
